@@ -1,0 +1,62 @@
+.* {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    display: inline-block;
+    padding: 1px;
+    20px;
+}
+
+.container{
+    width: 700px;
+}
+
+.section {
+    width: 700px;
+}
+
+.footer {
+    width: 700px;
+    background-color: lightgray;
+}
+
+.nav {
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    height: 150px;
+    background-color: azure;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+.ads {
+    width: 600px;
+    background-color: darkslategrey;
+}
+
+.select {
+    background-color: darkslategrey;
+    float: left;
+    width: 250px;
+}
+
+.hacrker {
+    padding: 20px;
+    background-color: darkslategrey;
+    float: left;
+    width: 100px;
+}
+
+.design {
+    padding: 20px;
+    background-color: darkslategrey;
+    float: left;
+    width: 50px;
+
+}
