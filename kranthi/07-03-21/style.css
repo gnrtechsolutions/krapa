@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    display: inline-block;
+    padding: 5px;
+    20px;
+}
+
+.Menu {
+    width: 1000px;
+    background-color: #e6cf88;
+}
+
+.header {
+    width: 1000px;
+    height: 460px;
+    border: 10px solid bisque;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.many {
+    width: 1000px;
+    height: 65px;
+    background-image: url("https://lh3.googleusercontent.com/proxy/kgkFizPVWPA8T7SgAh2p9aD2gQjzUoYvuAOBXcZDerBv6nU9hJSUHq1S5fP7YR1Tb16tX1g9P6QCM0UshFGkucsiU-sDITA");
+}
+
+.clear {
+    clear: both;
+}
+
+.ranker {
+    float: left;
+    width: 600px;
+    padding-left: 30px;
+    padding-right: 10px;
+    height: 350px;
+    background-color: #f3ebd4;
+    border: 5px solid red;  
+}
+.college{
+    color: crimson;
+    padding: 20px;
+}
+
+.section {
+    float: left;
+    width: 300px;
+    height: 350px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 5px solid red;
+    background-image: url("https://lh3.googleusercontent.com/proxy/WWnOhRJ_2SPEP9J1dstTh3u6l0UUbOd_6jxfyMv2AEZ6Mcqk0p9YJ-1ofzIvPgbf9LYY5TE_cHSvCyjEZKrDVHACl_d3_B9XhV4hRoVyAAsPanTYo7I5a9uypPgWCzu69Ve7_O3utthFr4Kj-AyNHx-OdVbTY__PeWCBSuS8G38KN03B")
+}
+
+.special {
+    width: 1000px;
+    background-color: #e6cf88;
+}

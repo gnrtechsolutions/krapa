@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ul li{
+    display:inline-block;
+    padding:5px 10px;
+}
+.content{
+    background-color:white;
+    width: 700px;
+    height: 1000px;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+}
+.header{
+    background-color: #303234;
+    width: 700px;
+    text-align: center;
+}
+.header img{
+        background-color: #303234;
+    width: 700px;
+}
+.section{
+    width: 700px;
+    background-color: lightblue;
+}
+.section img{
+    width: 700px;
+}
+.wrapper{
+    float: left;
+    width: 350px;
+    background-color: white;
+    color: black;
+    margin: 0 auto;
+}
+}
+.bigbox{
+    float: left;
+    padding:10px;
+    width:200px;
+    background-color: darkgray;
+}
+.clear{
+    clear: both;
+}
+.middlebox{
+    float: left;
+    width: 400px;
+}
+.smallbox{
+    float: left;
+    width: 400px;
+}
+.aside{
+    float: left;
+    width: 400px;
+    background-color: darkgray;
+}
+.footer{
+    width: 700px;
+    background-color: deepskyblue;
+    color: white;
+}
+.nav{
+    margin:10px;
+    padding:10px;
+    width:100px;
+    height:150px;
+    background-color: aqua;
+    float:left;
+}
+.ads{
+    width: 700px;
+    background-color: darkslategrey;
+}
+.select{
+    background-color: darkslategrey;
+    float: left;
+    width: 250px;
+}
+.hacrker{
+    padding: 20px;
+    background-color: darkslategrey;        
+    float: left;
+    width: 100px;
+}
+.design{
+    padding: 20px;
+    background-color: darkslategrey;        
+    float: left;
+    width: 50px;
+}
+.ranker img{
+    padding: 20px;
+    background-color: darkslategrey;        
+    float: left;
+    width: 50px;
+}
+
+

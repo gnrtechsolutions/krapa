@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    text-align: center;
+    margin: 0 auto;
+    width: 1000px;
+}
+.container{
+    text-align: center;
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+    background-image: url(https://tympanus.net/Freebies/Boxify/img/hero-01.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.boxify{
+    float: left;
+    width: 100px;
+    font-style: italic;
+}
+.pera{
+    width: 1000px;
+    padding: 30px;
+    
+}
+.para {
+    float: left;
+    width: 100px;
+    height: 20px;
+     margin: 5px;
+    padding: 10px;
+    border: 1px solid #aaa;
+    background-color: white;
+    color: aqua;
+}
+.para1 {
+    float: left;
+    width: 100px;
+    margin: 5px;
+    padding: 10px;
+    height: 20px;
+    border: 1px solid #aaa;
+}
+.mall{
+    float: right;
+    width: 200px;
+    border: 1px solid #eee;
+    height: 100px;
+    
+}
+.chim{
+    float: right;
+    width: 100px;
+    border: 1px;
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+.watch{
+     text-align: center;
+    margin: 0 auto;
+    width: 1000px;
+    background-color: azure;
+    padding: 40px;
+}
+.fore{
+    width: 1000px;
+    height: 400px;
+}
+.three{
+    width: 1000px;
+    background-color: azure;
+}
+.responsive{
+    float: left;
+    width: 300px;
+}
+.multi{
+  float: left;
+    width: 300px;  
+}
+.absolutely{
+    float: left;
+    width: 300px;
+}
+.showcase{
+    width: 1000px;
+}
+.product{
+    float: left;
+    width: 500px;
+}
+.service{
+    float: left;
+    width: 500px;
+}
+.packed{
+    width: 1000px;
+    background-color: azure;
+}

@@ -1,0 +1,8 @@
+ul li{
+    display: inline-block;
+    padding: 5px 20px;
+}
+.card{
+    background-color:#ff9e28;
+    color:white;
+}

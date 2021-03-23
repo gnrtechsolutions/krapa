@@ -1,0 +1,105 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    text-align: center;
+    width: 1000px;
+    padding-left: 100px;
+    
+}
+.many{
+    width: 1000px;
+    background-image: url("assets/images/om.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 70px;
+    
+}
+.ranker{
+    color: white;
+     padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 100px;
+    text-align: center;
+}
+.hacker{
+    color: white;
+     padding-left: 300px;
+    padding-right: 300px;
+}
+ul li{
+    color: white;
+    display:inline-block;
+    padding:5px 15px;
+}
+
+.clear{
+    clear: both;
+}
+.section{
+    padding-bottom: 100px;
+}
+.college{
+    background-image: url("assets/images/girl.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.yoga{
+  margin: 10px;
+   width: 200px;
+    height: 100px;
+    float:left;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    text-align: justify;
+    text-align: center;
+}
+.maintain{
+   padding-top:100px;
+    padding-left: 50px;
+}
+.marker{
+    width: 200px;
+    text-align: justify;
+    padding-top: 10px;
+    padding-left: 430px;
+}
+.image{
+    float: left;
+    margin-left: 0px;
+}
+.why{
+    float: left;
+    width: 600px;
+    padding-top: 30px;
+    text-align: justify;
+    text-align: center;
+}
+.why1{
+    width: 700px;
+    padding-top: 30px;
+    text-align: justify;
+}
+.nav{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    float:left;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-size: 100%;
+    text-align: center;
+    text-align: justify;
+    padding-bottom: 100px;
+}
+.conus{
+    
+}
+.text{
+    
+}
+.serial{
+    
+}
