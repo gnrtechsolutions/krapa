@@ -1,13 +1,16 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-.header{
+
+.header {
     text-align: center;
     margin: 0 auto;
     width: 1000px;
+    position: relative;
 }
-.container{
+
+.container {
     text-align: center;
     margin: 0 auto;
     width: 1000px;
@@ -16,26 +19,30 @@
     background-size: 100%;
     background-repeat: no-repeat;
 }
-.boxify{
+
+.boxify {
     float: left;
     width: 100px;
     font-style: italic;
 }
-.pera{
+
+.pera {
     width: 1000px;
     padding: 30px;
-    
+
 }
+
 .para {
     float: left;
     width: 100px;
     height: 20px;
-     margin: 5px;
+    margin: 5px;
     padding: 10px;
     border: 1px solid #aaa;
     background-color: white;
     color: aqua;
 }
+
 .para1 {
     float: left;
     width: 100px;
@@ -44,14 +51,16 @@
     height: 20px;
     border: 1px solid #aaa;
 }
-.mall{
+
+.mall {
     float: right;
     width: 200px;
     border: 1px solid #eee;
     height: 100px;
-    
+
 }
-.chim{
+
+.chim {
     float: right;
     width: 100px;
     border: 1px;
@@ -60,48 +69,138 @@
     font-weight: bold;
     text-align: center;
 }
-.clear{
+
+.clear {
     clear: both;
 }
-.watch{
-     text-align: center;
+
+.watch {
+    text-align: center;
     margin: 0 auto;
     width: 1000px;
     background-color: azure;
     padding: 40px;
 }
-.fore{
+
+.fore {
     width: 1000px;
-    height: 400px;
+    height: 300px;
+    background-image: url(assets/images/features-intro-01.jpg);
+
 }
-.three{
+
+.design {
+    float: left;
+    width: 500px;
+    height: 300px;
+}
+
+.technology {
+    float: left;
+    width: 500px;
+    height: 300px;
+}
+
+.three {
     width: 1000px;
+    height: 200px;
     background-color: azure;
 }
-.responsive{
+
+.responsive {
     float: left;
     width: 300px;
 }
-.multi{
-  float: left;
-    width: 300px;  
-}
-.absolutely{
+
+.multi {
     float: left;
     width: 300px;
 }
-.showcase{
-    width: 1000px;
+
+.absolutely {
+    float: left;
+    width: 300px;
 }
-.product{
+
+.showcase {
+    width: 1000px;
+    height: 700px;
+    background-image: url("assets/images/showcase-bg-fixed-01.jpg");
+}
+
+.product {
     float: left;
     width: 500px;
+    height: 700px;
+    color: white;
 }
-.service{
+
+.service {
     float: left;
     width: 500px;
+    padding-top: 70px;
+    text-align: justify;
 }
-.packed{
+
+.frees {
+    float: left;
+    width: 500px;
+    padding-bottom: 50px;
+    text-align: justify;
+}
+
+.clear {
+    clear: both;
+}
+
+.packed {
+    float: left;
+    padding-top: 50PX;
+    padding-left: 50PX;
     width: 1000px;
+    height: 200PX;
     background-color: azure;
+    text-align: center;
+    text-align: justify;
+}
+
+.container-fuild {
+    width: 1000px;
+}
+
+.contains {
+    width: 1000px;
+}
+
+.see {
+    width: 1000px;
+    height: 100px;
+    padding-top: 30px;
+    background-color: darkslategrey;
+    color: white;
+}
+
+.last {
+    width: 1000px;
+    height: 100px;
+    background-color: darkgray;
+}
+
+.lasts {
+    float: left;
+    width: 500px;
+    padding-top: 20px;
+}
+
+.about {
+    float: left;
+    width: 500px;
+    padding-top: 50px;
+    color: dodgerblue;
+}
+
+ul li {
+    display: inline-block;
+    padding: 5px;
+    20px;
 }
